@@ -19,6 +19,7 @@
 		C97870732111EC1400D94A39 /* C2.m in Sources */ = {isa = PBXBuildFile; fileRef = C97870722111EC1400D94A39 /* C2.m */; };
 		C97870762111EE6600D94A39 /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C97870752111EE6600D94A39 /* BaseViewController.m */; };
 		C97870792111F55500D94A39 /* C4.m in Sources */ = {isa = PBXBuildFile; fileRef = C97870782111F55500D94A39 /* C4.m */; };
+		C978707C211327FE00D94A39 /* C8.mm in Sources */ = {isa = PBXBuildFile; fileRef = C978707B211327FE00D94A39 /* C8.mm */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,8 @@
 		C97870752111EE6600D94A39 /* BaseViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BaseViewController.m; sourceTree = "<group>"; };
 		C97870772111F55500D94A39 /* C4.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = C4.h; sourceTree = "<group>"; };
 		C97870782111F55500D94A39 /* C4.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = C4.m; sourceTree = "<group>"; };
+		C978707A211327FE00D94A39 /* C8.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = C8.h; sourceTree = "<group>"; };
+		C978707B211327FE00D94A39 /* C8.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = C8.mm; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -156,6 +159,8 @@
 				C978706F2111EC0700D94A39 /* C3.mm */,
 				C97870772111F55500D94A39 /* C4.h */,
 				C97870782111F55500D94A39 /* C4.m */,
+				C978707A211327FE00D94A39 /* C8.h */,
+				C978707B211327FE00D94A39 /* C8.mm */,
 			);
 			path = content;
 			sourceTree = "<group>";
@@ -292,6 +297,7 @@
 			files = (
 				C978703D2111E65800D94A39 /* ViewController.m in Sources */,
 				C97870762111EE6600D94A39 /* BaseViewController.m in Sources */,
+				C978707C211327FE00D94A39 /* C8.mm in Sources */,
 				C97870792111F55500D94A39 /* C4.m in Sources */,
 				C97870702111EC0700D94A39 /* C3.mm in Sources */,
 				C97870482111E65B00D94A39 /* main.m in Sources */,
